@@ -1,1 +1,2 @@
-# Logos
+## Logos for COMBINE standards
+
